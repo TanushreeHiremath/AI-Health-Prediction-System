@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+reportlab
+passlib
+bcrypt
+python-multipart
+email-validator
+requests
